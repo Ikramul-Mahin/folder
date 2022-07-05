@@ -1,0 +1,95 @@
+.prac-1 {
+    display: flex;
+    margin: 3rem 0;
+}
+
+h1 {
+    font-size: 4rem;
+    color: gray;
+}
+
+span {
+    color: orange;
+}
+
+.text-1 {
+    width: 50%;
+}
+
+.first-img {
+    width: 40%;
+}
+
+p {
+    width: 40%;
+}
+
+.btn {
+    margin: 1rem 0;
+    text-decoration: none;
+    padding: 10px 15px;
+    border-radius: 10px;
+    background-color: orange;
+    color: white;
+}
+
+h3 {
+    font-size: 4rem;
+}
+
+.text-2 {
+    width: 60%;
+    margin-left: 15%;
+}
+
+.box img {
+    width: 60%;
+    margin-left: 5%;
+}
+
+.box {
+    border-radius: 8px;
+    box-shadow: 10px 10px 7px rgb(88, 81, 81);
+
+}
+
+.text-3 {
+    text-align: center;
+    align-items: center;
+}
+
+.my-flex {
+    display: flex;
+    padding: 2rem 5rem;
+    margin: 10px 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+footer {
+    padding: 1rem 0;
+    background-color: black;
+    text-align: center;
+    align-items: center;
+
+}
+
+footer h4 {
+    color: white;
+}
+
+footer small {
+    color: azure;
+}
+
+.one {
+    width: 33%;
+}
+
+.two {
+    width: 34%;
+}
+
+.three {
+    width: 33%;
+}
